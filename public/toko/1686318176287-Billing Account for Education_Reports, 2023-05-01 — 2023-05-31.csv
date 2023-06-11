@@ -1,0 +1,86 @@
+Service description,Service ID,SKU description,SKU ID,Usage amount,Usage unit,Cost ($),Discounts ($),Promotions and others ($),Unrounded subtotal ($),Subtotal ($)
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - RAM in Jakarta,3491-8FE0-9709,907.202,gibibyte hour,8.26,0.00,-8.26,0.000001,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - vCPU in Singapore,3A8F-F454-6BF0,96,hour,5.55,0.00,-5.55,0.000001,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - RAM in Singapore,646E-05DE-6331,624,gibibyte hour,6.12,0.00,-6.12,0.000001,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - vCPU in Jakarta,9318-73FC-60C5,139.569,hour,7.49,0.00,-7.49,0.000001,0.00
+Maps API,1934-AA85-20F9,Mobile Native Dynamic Maps,6DE1-4D9C-5B67,19,views,0.00,0.00,0.00,0.000000,0.00
+Cloud Logging,5490-F7B7-8DF6,Log Volume,143F-A1B0-E0BE,0.002,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Ingress via Carrier Peering Network - APAC Based,0B29-DA5B-5E84,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Ingress from Americas to Singapore,0DAE-9664-F677,0.026,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Static Ip Charge in Singapore,0F15-D3C0-5F12,26.717,hour,0.28,0.00,-0.28,0.000000,0.00
+Compute Engine,6F81-5844-456A,Balanced PD Capacity in Singapore,16D2-FC49-A127,0.322,gibibyte month,0.04,0.00,-0.04,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Ingress from China to Singapore,1727-A811-F543,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Micro Instance with burstable CPU running in Singapore,21D7-4648-AED4,23.962,hour,0.22,0.00,-0.22,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Finland to Singapore,2791-5FA3-2C2D,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Egress from Singapore to Australia,292B-5D52-060C,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Egress from Singapore to London,30B2-2B5D-5FA4,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Ingress from APAC to Singapore,4048-C13F-C250,0.003,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Sydney to Singapore,4511-364C-760F,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Zurich to Singapore,455D-3DD0-57E1,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Mumbai to Singapore,5A71-68EE-5232,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Licensing Fee for Debian 11 Bullseye,6969-D00C-298F,23.962,hour,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Egress from Singapore to Americas,72F8-90AD-8752,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Egress from Singapore to Mumbai,759B-1DAF-63D5,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Egress from Singapore to EMEA,77FA-B1DB-31D7,0.002,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Virginia to Singapore,81FA-4317-7266,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Montreal to Singapore,9171-5BDB-75A3,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from EMEA to Singapore,98F7-03C4-4061,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from APAC to Singapore,9A66-1F38-AB49,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Egress from Singapore to EMEA,9AA1-A59A-59E4,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from London to Singapore,A518-8D8B-049B,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Americas to Singapore,AF20-05B2-C3BD,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Frankfurt to Singapore,B31E-3260-DE8B,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,External IP Charge on a Standard VM,C054-7F72-A02E,23.962,hour,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Google Ingress from Singapore to Singapore,C60B-9B3C-B624,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Zone Ingress,D0CC-50DF-59D2,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Egress from Singapore to China,D227-97EC-A38C,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Region Ingress from Japan to Singapore,D4DC-DA81-7CF0,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Inter Zone Egress,DE9E-AFBC-A15A,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Google Egress from Singapore to Singapore,EA96-9836-7E58,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Ingress from Australia to Singapore,ED97-5D52-D3CC,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Ingress from EMEA to Singapore,FD99-2853-868C,0.002,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Americas to APAC,094A-C58C-9FD6,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Singapore to EMEA,0CED-3D51-A452,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - Standard storage in Singapore,1266-187E-230D,3.226,gibibyte month,0.77,0.00,-0.77,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Region Egress from Singapore to London,1592-4A80-2A2E,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Americas to Americas,238B-D94B-7243,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Region Egress from Jakarta to Americas,284F-33EF-C19D,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Jakarta to Americas,2C5B-8DE3-FC33,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - vCPU in Americas,2C7C-7705-6CE7,14.705,hour,1.21,0.00,-1.21,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Region Egress from Singapore to Americas,3289-D39B-79AD,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Region Egress from Jakarta to Singapore,3336-1CB7-75F2,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - Standard storage in Singapore,3879-3E06-B919,0.295,gibibyte month,0.14,0.00,-0.14,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - RAM in Americas,49E9-5D00-B807,4.541,gibibyte hour,0.03,0.00,-0.03,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Jakarta to China,5308-3E11-ED4F,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL: Backups in Singapore,5C0F-D226-757F,0.001,gibibyte month,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Region Egress from Jakarta to London,607D-FA72-C6A9,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Jakarta to EMEA,6530-6083-15E3,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Storage PD Snapshot,66AB-BA17-351C,0,gibibyte month,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - vCPU in Americas,741F-D668-2417,1.134,hour,0.05,0.00,-0.05,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Google Egress from Americas to Americas,85F4-8AFC-FF68,0.008,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Singapore to APAC,8D5A-2F2A-E13C,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Google Egress from Singapore to Singapore,A7D3-CB24-4504,0.02,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - RAM in Singapore,B5A3-F8E0-E992,57.01,gibibyte hour,1.12,0.00,-1.12,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - IP address reservation in Americas,B692-E53E-3324,7.337,hour,0.07,0.00,-0.07,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Singapore to China,B710-7DD8-5D00,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Singapore to Americas,B814-444B-A5FA,0,gibibyte,0.00,0.00,-0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Americas to China,BD3F-C491-897F,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Zone Egress in Singapore,C3E9-9E19-CE03,0.012,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Google Egress from Jakarta to Jakarta,C874-DB94-1908,0.03,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Zone Egress in Americas,D32E-3B98-00B6,0.017,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - Standard storage in Americas,D65A-D0C3-34F4,0.988,gibibyte month,0.34,0.00,-0.34,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - RAM in Americas,E33C-229F-2DA2,58.82,gibibyte hour,0.82,0.00,-0.82,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - Standard storage in Jakarta,E969-FD43-DE2D,4.69,gibibyte month,1.04,0.00,-1.04,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Internet Egress from Jakarta to APAC,EC66-065D-4D09,0,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Network Inter Zone Egress in Jakarta,EE5D-406E-7FEA,0.021,gibibyte,0.00,0.00,0.00,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Zonal - Standard storage in Americas,F0A1-2B08-FA36,1.062,gibibyte month,0.18,0.00,-0.18,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL for MySQL: Regional - vCPU in Singapore,F61D-C80B-8895,8.769,hour,1.01,0.00,-1.01,0.000000,0.00
+Cloud SQL,9662-B51E-5089,Cloud SQL: Backups in Jakarta,F973-CB31-8161,0.002,gibibyte month,0.00,0.00,-0.00,0.000000,0.00
+Networking,E505-1604-58F8,Network Intelligence Center Network Analyzer Resource Hours,9BF8-CD36-F9B8,23,count,0.03,-0.03,0.00,0.000000,0.00
+Networking,E505-1604-58F8,Network Intelligence Center Internet to Google Cloud Performance Resource Hours,BDBA-22FA-3925,23,count,0.02,-0.02,0.00,0.000000,0.00
+Networking,E505-1604-58F8,Network Intelligence Center Connectivity Tests Runs,C985-127E-325E,2,count,0.00,0.00,0.00,0.000000,0.00
+Networking,E505-1604-58F8,Network Intelligence Center Topology and Google Cloud Performance Resource Hours,D9AD-28F8-05D8,23,count,0.03,-0.03,0.00,0.000000,0.00
+Compute Engine,6F81-5844-456A,Network Internet Egress from Singapore to Americas,2DF7-CD55-4181,0.002,gibibyte,0.00,0.00,-0.00,-0.000001,-0.00
+Compute Engine,6F81-5844-456A,Network Internet Egress from Singapore to APAC,36ED-8A88-4748,0.003,gibibyte,0.00,0.00,-0.00,-0.000003,-0.00
+,,,,,,,,Subtotal,0.000000,0.00
+,,,,,,,,Filtered total,0.000000,0.00
